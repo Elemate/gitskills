@@ -1,2 +1,7 @@
  wo ri nima yo
- now is & in dev branch
+<<<<<<< HEAD
+ now is in and dev branch
+=======
+ now is in and dev branch 
+
+>>>>>>> feature1

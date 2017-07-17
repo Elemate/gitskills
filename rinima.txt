@@ -1,7 +1,4 @@
  wo ri nima yo
-<<<<<<< HEAD
  now is in and dev branch
-=======
- now is in and dev branch 
+ I have create a new branch
 
->>>>>>> feature1
